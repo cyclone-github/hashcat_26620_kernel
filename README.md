@@ -1,10 +1,12 @@
 # hashcat Metamask -m 26620 kernel
 Custom hashcat kernel for new Metamask Vaults which use dynamic iterations
 
+_This custom kernel may be superseded when hashcat releases official support for this mode_
+
 ### Compile 26620 kernel:
 - cd to your `hashcat/` directory
 - save `module_26620.c` to `hashcat/src/modules/`
-- save `m26620_a0-pure.cl` to `hashcat/OpenCL/`
+- save `m26620-pure.cl` to `hashcat/OpenCL/`
 - save `m26620.pm` to `hashcat/tools/test_modules/`
 - run these commands to compile (_you must have gcc installed and be in the root hashcat directory in order to run the compile commands below_)
   - make clean
