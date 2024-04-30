@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyclone-github&repo=hashcat_26620_kernel&theme=gruvbox)](https://github.com/cyclone-github/)
 # hashcat Metamask -m 26620 kernel
 Custom hashcat kernel for new Metamask Vaults which use dynamic iterations
 
