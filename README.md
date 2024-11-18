@@ -43,7 +43,7 @@ Hashcat:
 ```
 ./hashcat -m 26620 -a 0 hash.txt wordlist.txt
 ...
-$metamask$$600000$PCfeUVXQ5M31RQs2rLT6kF9pJRTbT0vMyXMURoJO6EE=$ypLEYWtsRzEw9w+Qeib/5g==$IfLSl8TvaFODPfX8hzz+/ycdIrbGTxUe4QslkFHQNrep6Ow88YNN3MJQuj0/u3OBYvrNtZh5loXaOUdoqEPSm8UfM7Vo8/mg+gXPJ285PhP8qmedPUHkEhXwTFr6UvltUW09e4lRX+XxqSvFfPjRtLgkzWYiq66F+pu+gufAzFl7jDy4uIde4XhQ6u7+qyi8wnHrF7rteFaLYb6sBON4p3wAq1Hq9dFUeigAi68xWnlEzpSIPgLxR5XRWAxIWnNFb+OPRaLsDfltWrXbtDDZDEb25vHDgVAZ9kvMHo958J3IjMg3x9ozRT9xYYPCvK6dzHqa6Dm//b3uncQtT1yF3nEP02OH1qhXtAEq/9Fm0kKPfrx9zoHsxqgL7Og/NlqiKSih6miIpToRF+bfme/Ssyn/m+b+CuQJr91kF0heumWXKfchUscxFX6rHdyCi35Dt9v48fpdJEsjgkVTjb6XBXsLTiZOfHKb4GepR7r01fq7u9MHgATFLumLJ/roSNf0Zg==:hashcat1
+$metamask$600000$PCfeUVXQ5M31RQs2rLT6kF9pJRTbT0vMyXMURoJO6EE=$ypLEYWtsRzEw9w+Qeib/5g==$IfLSl8TvaFODPfX8hzz+/ycdIrbGTxUe4QslkFHQNrep6Ow88YNN3MJQuj0/u3OBYvrNtZh5loXaOUdoqEPSm8UfM7Vo8/mg+gXPJ285PhP8qmedPUHkEhXwTFr6UvltUW09e4lRX+XxqSvFfPjRtLgkzWYiq66F+pu+gufAzFl7jDy4uIde4XhQ6u7+qyi8wnHrF7rteFaLYb6sBON4p3wAq1Hq9dFUeigAi68xWnlEzpSIPgLxR5XRWAxIWnNFb+OPRaLsDfltWrXbtDDZDEb25vHDgVAZ9kvMHo958J3IjMg3x9ozRT9xYYPCvK6dzHqa6Dm//b3uncQtT1yF3nEP02OH1qhXtAEq/9Fm0kKPfrx9zoHsxqgL7Og/NlqiKSih6miIpToRF+bfme/Ssyn/m+b+CuQJr91kF0heumWXKfchUscxFX6rHdyCi35Dt9v48fpdJEsjgkVTjb6XBXsLTiZOfHKb4GepR7r01fq7u9MHgATFLumLJ/roSNf0Zg==:hashcat1
                                                           
 Session..........: hashcat
 Status...........: Cracked
