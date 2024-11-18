@@ -318,7 +318,7 @@ int module_hash_encode (MAYBE_UNUSED const hashconfig_t *hashconfig, MAYBE_UNUSE
 
   u8 *out_buf = (u8 *) line_buf;
 
-  int out_len = snprintf((char *) out_buf, line_size, "%s$%u$%s$%s$%s",
+  int out_len = snprintf((char *) out_buf, line_size, "%s%u$%s$%s$%s",
     SIGNATURE_METAMASK_WALLET,
     salt->salt_iter + 1, // dymanic iteration count
     salt_buf,
