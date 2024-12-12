@@ -1,4 +1,9 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyclone-github&repo=hashcat_26620_kernel&theme=gruvbox)](https://github.com/cyclone-github/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyclone-github&repo=hashcat_26620_kernel&theme=gruvbox)](https://github.com/cyclone-github/hashcat_26620_kernel/)
+
+[![GitHub issues](https://img.shields.io/github/issues/cyclone-github/hashcat_26620_kernel.svg)](https://github.com/cyclone-github/hashcat_26620_kernel/issues)
+[![License](https://img.shields.io/github/license/cyclone-github/hashcat_26620_kernel.svg)](LICENSE)
+<!-- [![GitHub release](https://img.shields.io/github/release/cyclone-github/hashcat_26620_kernel.svg)](https://github.com/cyclone-github/hashcat_26620_kernel/releases) -->
+
 # hashcat Metamask -m 26620 kernel
 Custom hashcat kernel for new Metamask Vaults which use dynamic iterations
 
