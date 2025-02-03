@@ -4,10 +4,13 @@
 [![License](https://img.shields.io/github/license/cyclone-github/hashcat_26620_kernel.svg)](LICENSE)
 <!-- [![GitHub release](https://img.shields.io/github/release/cyclone-github/hashcat_26620_kernel.svg)](https://github.com/cyclone-github/hashcat_26620_kernel/releases) -->
 
+# SCAM ALERT: 
+## THERE ARE USERS COPYING MY SOURCE CODE AND SELLING IT ONLINE AS FAKE KERNELS LIKE COINBASE, RONIN, TRUST, ETC. 
+## IF YOU'RE BUYING A KERNEL THAT IS "-m 26620", IT IS 100% COPIED FROM THIS GITHUB REPO AND IS MOST LIKELY FAKE.
+
+
 # hashcat Metamask -m 26620 kernel
 Custom hashcat kernel for new Metamask Vaults which use dynamic iterations
-
-_This custom kernel may be superseded when hashcat releases official support for this mode_
 
 ### Compile 26620 kernel:
 - cd to your `hashcat/` directory
