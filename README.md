@@ -4,9 +4,18 @@
 [![License](https://img.shields.io/github/license/cyclone-github/hashcat_26620_kernel.svg)](LICENSE)
 <!-- [![GitHub release](https://img.shields.io/github/release/cyclone-github/hashcat_26620_kernel.svg)](https://github.com/cyclone-github/hashcat_26620_kernel/releases) -->
 
-# SCAM ALERT: 
-## THERE ARE USERS COPYING MY SOURCE CODE AND SELLING IT ONLINE AS FAKE KERNELS LIKE COINBASE, RONIN, TRUST, ETC. 
-## IF YOU'RE BUYING A KERNEL THAT IS "-m 26620", IT IS 100% COPIED FROM THIS GITHUB REPO AND IS MOST LIKELY FAKE.
+# `FYI`:
+There are devs who have copied my 26620 hashcat kernel / module and are selling it online. Please note that I open source my code on GitHub and do not charge $$ for it as I believe a stronger community is more important. If you are purchasing a hashcat kernel that is -m `26620`, keep in mind that it's 100% copied from this 26620 GitHub repo -- which is open source.
+
+If you're a developer who is wanting to use my 26620 *.cl kernel and *.c module for your project, I ask you do consider the following:
+1. Contact me and I'll be glad to support your development
+2. Give me credits for the original 26620 kernel
+3. Change the hashcat mode (26620) to something unique (like 2663x)
+4. Update the following in `module_*.c`: 
+* HASH_NAME
+* KERN_TYPE
+* ST_HASH
+* SIGNATURE_METAMASK_WALLET
 
 
 # hashcat Metamask -m 26620 kernel
