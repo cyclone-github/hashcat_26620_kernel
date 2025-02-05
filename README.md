@@ -7,7 +7,7 @@
 # `FYI`:
 There are devs who have copied my 26620 hashcat kernel / module and are selling it online. Please note that I open source my code on GitHub and do not charge $$ for it as I believe a stronger community is more important. If you are purchasing a hashcat kernel that is -m `26620`, keep in mind that it's 100% copied from this 26620 GitHub repo -- which is open source.
 
-If you're a developer who is wanting to use my 26620 *.cl kernel and *.c module for your project, I ask you do consider the following:
+If you're a developer who is wanting to use my 26620 *.cl kernel and *.c module for your project, I ask you to consider the following:
 1. Contact me and I'll be glad to support your development
 2. Give me credits for the original 26620 kernel
 3. Change the hashcat mode (26620) to something unique (like 2663x)
