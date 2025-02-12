@@ -81,3 +81,11 @@ Candidate.Engine.: Device Generator
 Candidates.#1....: hashcat1 -> hashcat1
 Hardware.Mon.#1..: Temp: 47c Fan:  0% Util:100% Core:2790MHz Mem:10501MHz Bus:1
 ```
+```
+sha256 checksums
+
+e3f99d5f38328b8a851941f481e71915c38b92900d01a585f2953ed1fbdc12e5  hashcat/OpenCL/m26620-pure.cl
+398c882cf5460163445c959b35219fb1c20ac2a81baf080a0358e7ca138f0155  hashcat/src/modules/module_26620.c
+626caa48a6acde33985adb1c18ae669672dd764b1288edc0b012a072cc3ebb95  hashcat/modules/module_26620.dll
+6d9e2efa80f23e4dd6868340e32d4d76b859d0d09392632f51c8b3029f2629e0  hashcat/modules/module_26620.so
+```
